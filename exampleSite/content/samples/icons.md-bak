@@ -8,11 +8,6 @@ slug: "icons"
 tags: ["icons", "sample", "shortcodes"]
 showDateUpdated: true
 ---
-Some test svg icons from FontAwesome 6 Pro.
-
-Use the force as a powerful Jedi {{< icon jedi-light >}}. You need food to fight well. Have some pizza {{< icon pizza-slice-light >}}.
-Ask the honey badger {{< icon badger-honey-duotone >}} about all this and he will say {{< icon badger-honey-thin >}} "Honey badger don't care". {{< icon badger-honey-light >}}.
-
 
 Congo has built-in support for a number of [FontAwesome 6](https://fontawesome.com/icons) icons. These can be included in your website through either the [icon partial]({{< ref "docs/partials#icon" >}}) or [icon shortcode]({{< ref "docs/shortcodes#icon" >}}).
 
